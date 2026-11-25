@@ -59,14 +59,14 @@ Server will start at http://localhost:5000
 
 ## 📡 API Endpoints Reference
 ```
-Method		Endpoint		Description					Payload Required
+Method		Endpoint		Description		Payload Required
 
 GET		/posts			Fetch all blog posts		None
 GET		/posts/:id		Fetch a specific post		None
-POST		/posts			Create a new post			{"title": "...", "content": "..."}
+POST		/posts			Create a new post		{"title": "...", "content": "..."}
 PUT		/posts/:id		Update an existing post		{"title": "..."}
-DELETE		/posts/:id		Delete a post				None
-POST		/login			Mock authentication			{"username": "...", "password": "..."}
+DELETE		/posts/:id		Delete a post		None
+POST		/login			Mock authentication		{"username": "...", "password": "..."}
 ```
 
 ## 🌐 Live Deployment
