@@ -35,7 +35,7 @@ A robust and scalable backend API built as part of Sprint 09 (Track B - Fullstac
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/YOUR_USERNAME/data-hub-api.git
+   git clone https://github.com/y-ro9/data-hub-api.git
 ```
 
 2. Navigate to the project directory:
