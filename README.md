@@ -5,7 +5,7 @@ A robust and scalable backend API built as part of Sprint 09 (Track B - Fullstac
 ## 🛠️ Tech Stack
 *   **Environment:** Node.js
 *   **Framework:** Express.js
-*   **Testing:** Postman / Hoppscotch
+*   **Testing:** Thunder Client
 *   **Deployment:** Render.com
 
 ---
